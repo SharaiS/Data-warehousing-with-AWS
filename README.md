@@ -63,5 +63,5 @@ This project has five files: create.py, etl.py, sql_queries.py, dwh.cfg, and inf
 Run the Infrastructure code to execute the sql_querie.py, create.py and etl.py.  
 
 ##### Sources
-- [1]: https://docs.aws.amazon.com/redshift/latest/dg/r_CREATE_TABLE_NEW.html
-- [1]: https://docs.aws.amazon.com/redshift/latest/dg/r_COPY.html
+-  https://docs.aws.amazon.com/redshift/latest/dg/r_CREATE_TABLE_NEW.html
+-  https://docs.aws.amazon.com/redshift/latest/dg/r_COPY.html
